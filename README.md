@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm passionate about building impactful solutions 
 ### 🌟 About Me
 
 - 🔭 **Currently working on:** [SenseEat Project](https://github.com/munibahmed/senseeat) – leveraging acoustic sensing for dietary and stress monitoring.
-- 🎓 **Pursuing:** BS in Computer Science (Cybersecurity Emphasis) at Boise State University (Graduation: May 2025).
+- 🎓 **Pursuing:** BS in Computer Science at Boise State University (Graduation: May 2025).
 - 💻 **Learning:** MERN stack, Next.js, and advanced web development.
 - 🌱 **Exploring:** TypeScript, Parsl, and scalable cloud solutions.
 - 🌐 **Languages & Tools:** Python, JavaScript, Java, Dart, React.js, Flask, MySQL, PostgreSQL, MongoDB, and more!
