@@ -60,7 +60,7 @@ Welcome to my GitHub profile! I'm passionate about building impactful solutions 
 ### 🤝 Connect with Me
 
 - 🌐 [Portfolio](https://munibahmed.dev) *(Coming Soon!)*
-- 💼 [LinkedIn](https://linkedin.com/in/munibahmed)
+- 💼 [LinkedIn](https://www.linkedin.com/in/munibahmedd/)
 - 📫 **Email:** munibahmed@u.boisestate.edu
 
 
